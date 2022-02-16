@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Kamylla
+- 👀 I’m interested in tudo da programação
+- 🌱 I’m currently learning programação
