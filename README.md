@@ -1,2 +1,2 @@
-- 👋 olá, me chamo Kamylla
+- 👋 Olá, me chamo Kamylla
 - 🌱 Apaixonada por tecnologia
